@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\FreeF\app\src\main\AndroidManifest.xml
+		INJECTED from C:\FreeF\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\FreeF\app\src\main\AndroidManifest.xml
+		INJECTED from C:\FreeF\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\FreeF\app\src\main\AndroidManifest.xml
+		INJECTED from C:\FreeF\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.USE_SIP
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.PROCESS_INCOMING_CALLS
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:18:5-69
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:18:22-66
+uses-permission#android.permission.BOOT_COMPLETED
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:19:22-70
+uses-feature#android.hardware.sip.voip
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:21:5-23:35
+	android:required
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:23:9-32
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:22:9-49
+uses-feature#android.hardware.wifi
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:24:5-26:35
+	android:required
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:26:9-32
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:25:9-45
+uses-feature#android.hardware.microphone
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:27:5-29:35
+	android:required
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:29:9-32
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:28:9-51
+application
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:31:5-77:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\19fa522756681a72df329680c8e838b91de2c4ae\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\c9f2d2c2b9b6d1c293b7c23ba53c937da47d99b8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\e1324a785f5ac9c4ec239b80e62c43cbe1df74ea\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\6b192cfb46f37cddfcce60f28455d46c06461942\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\ad19585caab73bc761f9b5d4c43dc2e008ba124e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\86943529964bf2182096e253ede596a3a0a9d8df\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\51c450f445e372db2d1c01e349f5b4be7a3abf74\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\634c2ebd2b895421bd2a26761f32c14ed6970646\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\471d1034bcb8bbf647fdc4b885370a0ba0d712d1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pawe許.android\build-cache\f8ed6c2fa07e0c9fb9a8736943fb9b8c8a84fca5\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:34:9-32
+	android:supportsRtl
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:36:9-35
+	android:roundIcon
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:35:9-54
+	android:allowBackup
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:32:9-35
+	android:icon
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:33:9-43
+	android:theme
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:37:9-67
+activity#com.hfad.freef.CallActivity_new
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:38:9-40:61
+	android:screenOrientation
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:39:13-45
+activity#com.hfad.freef.SipSettings
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:41:9-43:52
+	android:screenOrientation
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:42:13-40
+receiver#com.hfad.freef.DetectConnection
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:45:9-53:20
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:46:13-45
+intent-filter#android.intent.action.BOOT_COMPLETED+android.net.conn.CONNECTIVITY_CHANGE+android.net.wifi.WIFI_STATE_CHANGED
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:48:13-52:29
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:49:17-78
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:49:25-75
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:50:17-79
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:50:25-76
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:51:17-79
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:51:25-76
+receiver#com.hfad.freef.IncomingCallService_new
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:55:9-63:20
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:55:19-58
+activity#com.hfad.freef.DisplayUsersActivity
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:65:9-71:20
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:65:19-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:66:13-70:29
+action#android.intent.action.MAIN
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:67:17-69
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:67:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:69:17-77
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:69:27-74
+service#com.hfad.freef.DetectConnectionService
+ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:73:9-76:47
+	android:enabled
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:75:13-35
+	android:exported
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:76:13-36
+	android:name
+		ADDED from C:\FreeF\app\src\main\AndroidManifest.xml:74:13-52
+uses-sdk
+INJECTED from C:\FreeF\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\19fa522756681a72df329680c8e838b91de2c4ae\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\c9f2d2c2b9b6d1c293b7c23ba53c937da47d99b8\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\e1324a785f5ac9c4ec239b80e62c43cbe1df74ea\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\6b192cfb46f37cddfcce60f28455d46c06461942\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\ad19585caab73bc761f9b5d4c43dc2e008ba124e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\86943529964bf2182096e253ede596a3a0a9d8df\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\51c450f445e372db2d1c01e349f5b4be7a3abf74\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\634c2ebd2b895421bd2a26761f32c14ed6970646\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\471d1034bcb8bbf647fdc4b885370a0ba0d712d1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pawe許.android\build-cache\f8ed6c2fa07e0c9fb9a8736943fb9b8c8a84fca5\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\19fa522756681a72df329680c8e838b91de2c4ae\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\FreeF\app\src\main\AndroidManifest.xml
+		INJECTED from C:\FreeF\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\FreeF\app\src\main\AndroidManifest.xml
+		INJECTED from C:\FreeF\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\19fa522756681a72df329680c8e838b91de2c4ae\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\c9f2d2c2b9b6d1c293b7c23ba53c937da47d99b8\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\e1324a785f5ac9c4ec239b80e62c43cbe1df74ea\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\6b192cfb46f37cddfcce60f28455d46c06461942\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\ad19585caab73bc761f9b5d4c43dc2e008ba124e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\86943529964bf2182096e253ede596a3a0a9d8df\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\51c450f445e372db2d1c01e349f5b4be7a3abf74\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\634c2ebd2b895421bd2a26761f32c14ed6970646\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\471d1034bcb8bbf647fdc4b885370a0ba0d712d1\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\19fa522756681a72df329680c8e838b91de2c4ae\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Pawe許.android\build-cache\19fa522756681a72df329680c8e838b91de2c4ae\output\AndroidManifest.xml:26:9-47

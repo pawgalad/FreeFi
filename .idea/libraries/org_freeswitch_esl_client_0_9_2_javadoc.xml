@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.freeswitch.esl.client-0.9.2-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.freeswitch.esl.client-0.9.2-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

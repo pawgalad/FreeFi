@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\FreeF\lib\slf4j-api-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f3b8a24bf970f17289b234284c94f43eb42f0e4">
+        <dex dex="C:\FreeF\app\build\intermediates\pre-dexed\debug\slf4j-api-1.6.1_30882c1a88a61e6875f77486cdbc07fc5ae7b9d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\FreeF\lib\netty-3.2.1.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="96b54a771fbdbb4f931573729fcdf0822587f843">
+        <dex dex="C:\FreeF\app\build\intermediates\pre-dexed\debug\netty-3.2.1.Final_015ee2bb4782fd4e0fb34bec0ba401f6fc9cda0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\FreeF\lib\org.freeswitch.esl.client-0.9.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="254b37d3b467a19dae26f28a92c3b7fb050c5797">
+        <dex dex="C:\FreeF\app\build\intermediates\pre-dexed\debug\org.freeswitch.esl.client-0.9.2_b6778b3936b6e0ab6e8856d1c8d4d35c770de6eb.jar" />
+    </item>
+
+</items>
